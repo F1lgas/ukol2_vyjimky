@@ -1,0 +1,10 @@
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\bin\Debug\vyjimky_ukol2.exe.config
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\bin\Debug\vyjimky_ukol2.exe
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\bin\Debug\vyjimky_ukol2.pdb
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.csprojAssemblyReference.cache
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.Form1.resources
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.Properties.Resources.resources
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.csproj.GenerateResource.cache
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.csproj.CoreCompileInputs.cache
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.exe
+G:\PRG\vyjimky_ukol2\vyjimky_ukol2\obj\Debug\vyjimky_ukol2.pdb
